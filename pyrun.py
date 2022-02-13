@@ -8,3 +8,4 @@ print(zlib.ZLIB_VERSION)
 print(curses.ncurses_version)
 print(tf.version.VERSION)
 
+import IPython; IPython.embed()
